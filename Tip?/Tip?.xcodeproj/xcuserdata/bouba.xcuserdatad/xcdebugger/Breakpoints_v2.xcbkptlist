@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tip?/ViewController.swift"
+            timestampString = "537775475.831295"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.billField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextView&gt;"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773216.593232"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.billField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextView&gt;"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773216.595906"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tip_.ViewController"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773216.6004061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tip_.ViewController&gt;"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773216.604091"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tip?/ViewController.swift"
+            timestampString = "537775475.83255"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.__deallocating_deinit"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773236.1489151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tip_.ViewController"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773236.1544189"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tip_.ViewController"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773236.1566859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tip_.ViewController&gt;"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773236.160031"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tip_.ViewController&gt;"
+                  moduleName = "Tip?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bouba/Desktop/codepath/tipcalculator/Tip%3F/Tip%3F/ViewController.swift"
+                  timestampString = "537773236.161726"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
