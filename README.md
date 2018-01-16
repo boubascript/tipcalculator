@@ -4,7 +4,7 @@
 
 Submitted by: **Boubacar Diallo**
 
-Time spent: **8** hours spent in total (so far)
+Time spent: **10** hours spent in total (so far)
 
 ## User Stories
 
